@@ -1,0 +1,64 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+   appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+}
+
+.disabled {
+  opacity: 0.7;
+}
+
+.w-70{
+  width: 70%;
+}
+
+.w-30{
+  width: 30%;
+}
+
+.w-30{
+  width: 20%;
+}
+
+.w-32 {
+  width: 30%;
+  flex-basis: 30%;
+}
+
+
+.mb-0{
+  margin-bottom: 0;
+}
+
+
+.mt-0{
+  margin-top: 0;
+}
+
+.mt-2rem{
+  margin-top: 2rem;
+}
+
+.mt-1rem{
+  margin-top: 1rem;
+}
+
+.mt-3rem{
+  margin-top: 3rem;
+}
+
+.pt-2rem{
+  padding-top: 2rem;
+}
+
+p{
+  margin-bottom: 0;
+}
